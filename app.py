@@ -9,7 +9,7 @@ codroidhub_knowledge = {
     # Home & Welcome
     "welcome": {
         "keywords": ["hello", "hi", "hey", "start", "welcome", "help"],
-        "response": "Welcome to CodroidHub! I'm your assistant bot. I can help you with:\n\n🎓 Courses & Trainings\n Workshops & Events\n Internship & Career\n Services for Colleges\n Technical Services\n Contact Support\n\nWhat would you like to know about?"
+        "response": "Welcome to CodroidHub! I'm your assistant bot. I can help you with:\n\n Courses & Trainings\n Workshops & Events\n Internship & Career\n Services for Colleges\n Technical Services\n Contact Support\n\nWhat would you like to know about?"
     },
     
     # Courses & Trainings
