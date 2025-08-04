@@ -382,30 +382,29 @@
  <body>
    <div class="chat-container">
      <div class="header">
-       <h1>🤖 CodroidHub Assistant</h1>
+       <h1>CodroidHub Assistant</h1>
        <p>Your AI-powered learning companion</p>
        <button class="toggle-mode" onclick="toggleMode()">🌓 Mode</button>
      </div>
      
      <div id="chatbox">
        <div class="welcome-message">
-         <h3>Welcome to CodroidHub! 🚀</h3>
+         <h3>Welcome to CodroidHub!</h3>
          <p>I'm here to help you with courses, internships, workshops, and more. Try one of the quick actions below or just ask me anything!</p>
        </div>
      </div>
      
      <div class="quick-actions">
-       <button class="quick-action" onclick="sendQuickMessage('courses')">📚 Courses</button>
-       <button class="quick-action" onclick="sendQuickMessage('workshops')">🛠️ Workshops</button>
-       <button class="quick-action" onclick="sendQuickMessage('internship')">💼 Internships</button>
-       <button class="quick-action" onclick="sendQuickMessage('contact')">📞 Contact</button>
+       <button class="quick-action" onclick="sendQuickMessage('courses')">Courses</button>
+       <button class="quick-action" onclick="sendQuickMessage('workshops')">Workshops</button>
+       <button class="quick-action" onclick="sendQuickMessage('internship')">Internships</button>
+       <button class="quick-action" onclick="sendQuickMessage('contact')">Contact</button>
      </div>
      
      <div class="input-area">
        <textarea id="userinput" placeholder="Ask me about courses, internships, workshops..." rows="1"></textarea>
        <button class="send-button" onclick="sendMessage()">
          <span>Send</span>
-         <span>✈️</span>
        </button>
      </div>
    </div>
