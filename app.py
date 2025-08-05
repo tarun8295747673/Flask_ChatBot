@@ -71,7 +71,7 @@ codroidhub_knowledge = {
     # Contact & Support
     "contact": {
         "keywords": ["contact", "support", "help", "phone", "email", "demo"],
-        "response": "Contact CodroidHub:\n\n Email: info@codroidhub.com\n Phone: +91-98765-43210\n Website: www.codroidhub.com\n Address: Second Floor, Brahmakumari Chowk, above SBI Bank, Durga Nagar, Mahesh Nagar, Ambala Cantt, Haryana 133001\n\n Office Hours:\n• Monday - Friday: 9 AM - 6 PM\n• Saturday: 10 AM - 4 PM\n\n Book a FREE Demo:\n• Online consultation\n• Course walkthrough\n• Career guidance\n\nEmail: demo@codroidhub.com"
+        "response": "Contact CodroidHub:\n\n Email: info@codroidhub.com\n Phone: +91-91385 55661\n Website: www.codroidhub.com\n Address: Second Floor, Brahmakumari Chowk, above SBI Bank, Durga Nagar, Mahesh Nagar, Ambala Cantt, Haryana 133001\n\n Office Hours:\n• Monday - Friday: 9 AM - 6 PM\n• Saturday: 10 AM - 4 PM\n\n Book a FREE Demo:\n• Online consultation\n• Course walkthrough\n• Career guidance\n\nEmail: demo@codroidhub.com"
     },
     
     # Enrollment Process
